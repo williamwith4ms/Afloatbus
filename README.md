@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Afloatbus</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Afloatbus&label=Profile%20views&color=0e75b6&style=flat" alt="Afloatbus" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Afloatbus&theme=" alt="Afloatbus" /></a> </p>
-
 <div> <a href="https://twitter.com/Afloatbus" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Afloatbus" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
